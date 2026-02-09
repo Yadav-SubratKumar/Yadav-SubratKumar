@@ -5,12 +5,10 @@
 
 </div>
 
----
 
 ## 💫 About Me:
-
-🔭 I’m currently working on Cloud Tech<br>👯 I’m looking to collaborate on Devops Projects<br>🤝 I’m looking for help with Internship/entry-level DevOps roles<br>🌱 I’m currently exploring Cloud security and IAM Policies<br>💬 Ask me about Azure, Oracle and AWS<br>⚡ Fun fact Cloud whisperer: decoding infra mysteries!<br>
----
+<p> Actively building CI/CD pipelines, Kubernetes, & IaC (Terraform/Docker/GitOps) on OCI, Azure, AWS, GCP. Analytical thinker (top 1% academics) diving into cloud security & IAM. </p>
+🔭 Working on: Cloud tech projects <br>👯 Open to: DevOps collabs<br>🤝 Seeking: DevOps internships/entry-level roles<br>🌱 Exploring: Cloud security, IAM policies<br>💬 Ask me about: Azure, OCI, AWS<br>⚡  Fun fact: Cloud whisperer decoding infra mysteries! <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subratkumar-devops) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavsubrat007@gmail.com) 
